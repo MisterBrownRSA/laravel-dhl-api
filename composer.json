@@ -1,6 +1,7 @@
 {
     "name": "misterbrownrsa/laravel-dhl-api",
     "description": "DHL API wrapper for LARAVEL",
+    "version": "2017.12.01",
     "license": "MIT",
     "authors": [
         {
