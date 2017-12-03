@@ -14,7 +14,5 @@
             "MisterBrownRSA\\DHL\\API\\": "src/"
         }
     },
-    "require": {
-        "php": ">=7.0.0"
-    }
+    "require": {}
 }
